@@ -1,0 +1,2 @@
+# Alura_Django 
+Repositorio relacionado ao curso da Alura Django: Autenticação com OAuth2.0 continuação do curso da Alura Django: autenticação de formulários e alerta continuação do curso Django: persistência de dados e Admin continuação do curso Django: templates e boas práticas
